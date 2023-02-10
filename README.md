@@ -5,7 +5,7 @@ Late better than never.
 ### Progress
 
 -   [x] 1
--   [] 2
+-   [x] 2
 -   [] 3
 -   [] 4
 -   [] 5
